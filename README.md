@@ -2,7 +2,7 @@
 
 A Django app for analytics of user-views on a model or page.
 
-[![alt text](https://github.com/justdjango/Analytics_App/blob/master/analytics.png "Logo")](https://justdjango.com)
+[![alt text](https://github.com/justdjango/Analytics_App/blob/master/src/analytics.png "Logo")](https://justdjango.com)
 
 ## Getting started
 
