@@ -7,7 +7,7 @@ jdcal==1.4
 odfpy==1.4.0
 openpyxl==2.6.0
 pytz==2018.9
-PyYAML==3.13
+PyYAML==4.2b1
 tablib==0.12.1
 unicodecsv==0.14.1
 xlrd==1.2.0
